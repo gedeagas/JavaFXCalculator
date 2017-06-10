@@ -1,0 +1,10 @@
+.button:pressed {
+    -fx-background-color:#EEEEEE;
+    -fx-background-radius: 10;
+
+}
+.button{
+    -fx-background-color:#FFF;
+    -fx-background-radius: 10;
+
+}
